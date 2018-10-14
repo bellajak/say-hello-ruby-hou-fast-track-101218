@@ -10,4 +10,5 @@ def say_hello(array)
 end
 
 array = ["Gabriela"]
-say_hello(array)
+
+puts say_hello(array)
