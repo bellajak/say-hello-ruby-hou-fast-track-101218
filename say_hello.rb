@@ -5,6 +5,7 @@ def say_hello(array)
     puts "Hello #{name}!"
   else
     puts "Hello Ruby Programmer!"
+  end
 end
 
 names = ["Gabriela"]
