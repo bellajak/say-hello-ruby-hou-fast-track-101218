@@ -10,4 +10,4 @@ def say_hello(array)
 end
 
 names = ["Gabriela"]
-say_hello(name)
+say_hello(array)
