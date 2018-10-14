@@ -11,4 +11,4 @@ end
 
 array = ["Gabriela"]
 
-puts say_hello(array)
+say_hello(array)
