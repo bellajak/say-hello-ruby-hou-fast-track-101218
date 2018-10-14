@@ -1,6 +1,5 @@
 # Build your say_hello method here
 def say_hello(array)
-  array = ["Gabriela"]
   array.each do |name|
     if name == "Gabriela"
       puts "Hello #{name}!"
@@ -10,5 +9,6 @@ def say_hello(array)
   end
 end
 
+array = ["Gabriela"]
 
 say_hello(array)
